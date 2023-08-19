@@ -1,0 +1,6 @@
+{{#user}
+Name: Venkata Lakshmi Gayatri Manda
+Skills: selenium ,jira, java, Autoit, eclipse, MSOffice
+Email: gayatri.manda2199@gmail.com
+
+{{/user}}
